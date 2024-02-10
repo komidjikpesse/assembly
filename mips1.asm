@@ -1,4 +1,3 @@
-# Written (with love) by Lex Whalen, 09/25/21
 # A program to calculate sine, cosine, e^x, x!, x^n.
 # All in MIPS!
 
